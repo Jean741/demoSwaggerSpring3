@@ -24,5 +24,6 @@ import io.swagger.v3.oas.annotations.info.License;
                 version = "1.0.2"
         )
 )
+//http://server:port/context-path/swagger-ui.html
 public class SwaggerConfig {
 }
